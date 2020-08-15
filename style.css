@@ -1,0 +1,27 @@
+body {
+    background-image: url(images/clear.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.weather-body{
+    margin: 120px auto;
+    border: 2px solid lightgray;
+    background-color: rgba(37, 37, 38, 0.486);
+    width: 40%;
+    height: 350px;
+    display: none;
+}
+.weather-image img{
+    width: 120px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+    
+}
+.temperature h3{
+    font-size: 50px;
+}
+
+
+
